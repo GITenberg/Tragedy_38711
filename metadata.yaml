@@ -1,0 +1,32 @@
+_repo: Tragedy_38711
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thorndike, Ashley Horace
+    alias: Thorndike, Ashley H.
+    birthdate: 1871
+    deathdate: 1933
+    gutenberg_agent_id: '25231'
+    url: http://www.gutenberg.org/2009/agents/25231
+description: ''
+gutenberg_issued: '2012-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38711'
+  lccn: 08015303
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama (Tragedy) -- History and criticism'
+tableOfContents: Definitions -- The medieval and the classical influences -- The beginnings
+  of tragedy -- Marlowe and his contemporaries -- Shakespeare and his contemporaries
+  -- Shakespeare -- The later Elizabethans -- The Restoration -- The eighteenth century
+  -- The romantic movement -- Conclusion -- Index.
+title: Tragedy
+url: http://www.gutenberg.org/ebooks/38711
